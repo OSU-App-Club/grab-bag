@@ -1,5 +1,5 @@
 #Spotify (v2.4.5)
-##A Cocoa wrapper for libspotify.
+A Cocoa wrapper for libspotify.
 
 #Basics:
 
